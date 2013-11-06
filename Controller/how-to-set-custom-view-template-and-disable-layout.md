@@ -1,5 +1,5 @@
-How to set render script template and disable layout within Controller
-======================================================================
+How to set custom view template and disable layout within Controller
+====================================================================
 
 ```php
 <?php
